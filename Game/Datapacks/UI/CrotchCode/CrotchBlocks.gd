@@ -159,6 +159,7 @@ static func getAll():
 		"InvGetItemsWithTagCount",
 		"InvHasItemID",
 		"InvHasItemIDEquipped",
+		"InvHasItemIDEquippedCopy",
 		"InvHasItemsWithTag",
 		"InvHasSlotEquipped",
 		"InvHasXOfItemID",
